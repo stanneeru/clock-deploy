@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 
 class Clock extends Component {
   constructor(props){
@@ -53,5 +54,5 @@ return(
 )
   }
 }
-
 export default Clock;
+// test clock
