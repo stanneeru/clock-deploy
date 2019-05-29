@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clock-deploy/static/css/main.2cce8147.chunk.css",
-    "main.js": "/clock-deploy/static/js/main.def720b4.chunk.js",
-    "main.js.map": "/clock-deploy/static/js/main.def720b4.chunk.js.map",
+    "main.js": "/clock-deploy/static/js/main.061f5614.chunk.js",
+    "main.js.map": "/clock-deploy/static/js/main.061f5614.chunk.js.map",
     "runtime~main.js": "/clock-deploy/static/js/runtime~main.7c6e223c.js",
     "runtime~main.js.map": "/clock-deploy/static/js/runtime~main.7c6e223c.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/clock-deploy/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.590933e2.chunk.js": "/clock-deploy/static/js/2.590933e2.chunk.js",
     "static/js/2.590933e2.chunk.js.map": "/clock-deploy/static/js/2.590933e2.chunk.js.map",
     "index.html": "/clock-deploy/index.html",
-    "precache-manifest.23c38c77595df2b7b59d5ebc8fdef26d.js": "/clock-deploy/precache-manifest.23c38c77595df2b7b59d5ebc8fdef26d.js",
+    "precache-manifest.4be9b459dcfd5e294dbc17268a5b75be.js": "/clock-deploy/precache-manifest.4be9b459dcfd5e294dbc17268a5b75be.js",
     "service-worker.js": "/clock-deploy/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/clock-deploy/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/clock-deploy/static/css/main.2cce8147.chunk.css.map"
